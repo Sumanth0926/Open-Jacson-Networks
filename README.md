@@ -22,8 +22,8 @@ Visual components and Python
 
 ## Program
 ```
-Name    : PYNAM VINODH
-Reg No. : 212223240131
+Name    : POTHU SUMANTH
+Reg No. : 212224240115
 ```
 ```
 
